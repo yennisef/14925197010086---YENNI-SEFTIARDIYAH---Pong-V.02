@@ -35,3 +35,10 @@ sysinfo.txt
 # Builds
 *.apk
 *.unitypackage
+
+Library/* 
+Logs/* 
+Temp/* 
+ 
+.vsconfig 
+*.sln 
